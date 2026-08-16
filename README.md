@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Management CRUD Application
 
 ## Cognifyz Technologies - Software Development Internship
